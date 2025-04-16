@@ -127,7 +127,7 @@ Please ensure your code follows the existing style and includes appropriate test
 
 ## License
 
-None
+This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Contact
 
