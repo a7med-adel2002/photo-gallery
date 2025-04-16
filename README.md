@@ -125,6 +125,10 @@ Contributions are welcome! To contribute:
 
 Please ensure your code follows the existing style and includes appropriate tests.
 
+## Inspiration 
+Inspired by this tutorial:
+https://youtu.be/bnANtwr0fTU?si=AmsucJZr8B770KqL
+
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
